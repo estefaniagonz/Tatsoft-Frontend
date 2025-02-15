@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Tipografia from "../atoms/Tipografia";
-import Buscador from "./Buscador";
+import Buscador from "../molecules/Buscador";
 import Icono from "../atoms/Iconos";
 
 
